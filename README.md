@@ -18,7 +18,7 @@ It is designed to be thorough, not fast. Leave the tool to putter away deleting 
 <!-- -->
 **USAGE**
 
-1. Go here https://www.instagram.com/your_activity/interactions/comments
+1. Go here https://www.instagram.com/your_activity/interactions/likes
 2. Open a console on your browser
 3. Agree to the terms it may present
 4. Type any requested override text such as "allow pasting"
