@@ -1,4 +1,4 @@
-# InstagramLikesDeleter
+# Instagram Unlike Likes
 
 **WHAT**
 
@@ -33,6 +33,8 @@ Code will delete 20 likes at a time with a 60 second delay between each iteratio
 <!-- -->
 Coded with assistance of ChatGPT Sol 6.2 expanding on my earlier working code that Instagram broke. 
 
+The changes IG made were NUTS. They run some of the most obfuscatory JS code imaginable, designed to frustrate. Well it did, so I bought out the Atomic Weapons...
+
 <!-- -->
 **CAVEAT**
 
@@ -45,5 +47,13 @@ Coded with assistance of ChatGPT Sol 6.2 expanding on my earlier working code th
 
 Please report failures or bugs. Code grabs of errors is useful. Be kind to each other.
 
+**WHATS THE OTHER STUFF**
+
+`InstagramDeleteComments.js` - a work in progress. This will grind over your profile and delete EVERY comment you've ever made! Nice. Ready soon...
+
+`InstagramUnlikeComments.js` - an old script that IG broke. Don't use it. Its from Jan 2026 and now irrelevant.
+
+
+**SCREENGRAB OF CONSOLE WARNING**
 
 <img width="500" alt="ChromeWarning" src="https://github.com/user-attachments/assets/86157741-478e-4e33-ba5d-923a782dab5b" />
