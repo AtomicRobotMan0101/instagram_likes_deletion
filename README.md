@@ -18,10 +18,11 @@ It is designed to be thorough, not fast. Leave the tool to putter away deleting 
 <!-- -->
 **USAGE**
 
-1. Open a console on your browser
-2. Agree to the terms it may present
-3. Type any requested override text such as "allow pasting"
-4. Copy/paste the code and hit enter.
+1. Go here https://www.instagram.com/your_activity/interactions/comments
+2. Open a console on your browser
+3. Agree to the terms it may present
+4. Type any requested override text such as "allow pasting"
+5. Copy/paste the code and hit enter.
 
 <!-- -->
 Code will delete 20 likes at a time with a 60 second delay between each iteration.
